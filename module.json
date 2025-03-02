@@ -1,0 +1,93 @@
+{
+  "id": "italian-compendium-5e",
+  "title": "Italian Compendium 5e",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Pixelmaster",
+      "email": "dinoresin93@gmail.com",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "raze",
+      "label": "Raze",
+      "path": "packs/raze",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "oggetti",
+      "label": "Oggetti",
+      "path": "packs/oggetti",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "classi",
+      "label": "Classi",
+      "path": "packs/classi",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sottoclassi",
+      "label": "Sottoclassi",
+      "path": "packs/sottoclassi",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "incantesimi",
+      "label": "Incantesimi",
+      "path": "packs/incantesimi",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "mostri",
+      "label": "Mostri",
+      "path": "packs/mostri",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
