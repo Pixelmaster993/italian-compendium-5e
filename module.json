@@ -88,6 +88,28 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "privilegi-di-classe",
+      "label": "Privilegi di classe",
+      "path": "packs/privilegi-di-classe",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "oggetti-di-scambiovalore",
+      "label": "Oggetti di scambio/valore",
+      "path": "packs/oggetti-di-scambiovalore",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ]
 }
