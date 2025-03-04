@@ -1,5 +1,8 @@
-2025/03/03-11:29:16.105 2bf8 Delete type=3 #1
-2025/03/03-11:29:50.134 1c50 Level-0 table #5: started
-2025/03/03-11:29:50.134 1c50 Level-0 table #5: 0 bytes OK
-2025/03/03-11:29:50.138 1c50 Delete type=0 #3
-2025/03/03-11:29:50.155 1c50 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2025/03/04-14:34:40.626 998 Recovering log #23
+2025/03/04-14:34:40.643 998 Delete type=0 #23
+2025/03/04-14:34:40.645 998 Delete type=3 #21
+2025/03/04-15:07:20.888 1d74 Level-0 table #28: started
+2025/03/04-15:07:20.888 1d74 Level-0 table #28: 0 bytes OK
+2025/03/04-15:07:20.892 1d74 Delete type=0 #26
+2025/03/04-15:07:20.894 1d74 Manual compaction at level-0 from '!folders!01K0hSSl7NQjYLb8' @ 72057594037927935 : 1 .. '!items.effects!zSlV0O2rQMdoq6pB.U3so0zDcVt4sIBRz' @ 0 : 0; will stop at (end)
+2025/03/04-15:07:20.894 1d74 Manual compaction at level-1 from '!folders!01K0hSSl7NQjYLb8' @ 72057594037927935 : 1 .. '!items.effects!zSlV0O2rQMdoq6pB.U3so0zDcVt4sIBRz' @ 0 : 0; will stop at (end)
