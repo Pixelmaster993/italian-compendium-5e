@@ -105,6 +105,28 @@
       "label": "Oggetti di scambio/valore",
       "path": "packs/oggetti-di-scambiovalore",
       "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "background",
+      "label": "Background",
+      "path": "packs/background",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "background-tabelle",
+      "label": "Background Tabelle",
+      "path": "packs/background-tabelle",
+      "type": "RollTable",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
