@@ -116,6 +116,28 @@
       "label": "Background",
       "path": "packs/background",
       "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "background-tabelle",
+      "label": "Background Tabelle",
+      "path": "packs/background-tabelle",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "caratteristiche-mostri",
+      "label": "Caratteristiche Mostri",
+      "path": "packs/caratteristiche-mostri",
+      "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -123,10 +145,10 @@
       "system": "dnd5e"
     },
     {
-      "name": "background-tabelle",
-      "label": "Background Tabelle",
-      "path": "packs/background-tabelle",
-      "type": "RollTable",
+      "name": "manuali",
+      "label": "Manuali",
+      "path": "packs/manuali",
+      "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
