@@ -1,25 +1,8 @@
-2025/03/14-14:02:28.360 430 Recovering log #203
-2025/03/14-14:02:28.361 430 Level-0 table #205: started
-2025/03/14-14:02:28.375 430 Level-0 table #205: 326987 bytes OK
-2025/03/14-14:02:28.393 430 Delete type=0 #203
-2025/03/14-14:02:28.394 430 Delete type=3 #202
-2025/03/14-15:21:10.826 255c Moved #205 to level-1 326987 bytes OK: files[ 0 1 1 0 0 0 0 ]
-2025/03/14-19:18:57.726 255c Level-0 table #208: started
-2025/03/14-19:18:57.745 255c Level-0 table #208: 290693 bytes OK
-2025/03/14-19:18:57.753 255c Delete type=0 #206
-2025/03/14-19:18:57.757 255c Manual compaction at level-0 from '!items!0J2NfM8UovWLi7SE' @ 72057594037927935 : 1 .. '!items!vDARgjlL1BSUtORY' @ 0 : 0; will stop at '!items!vDARgjlL1BSUtORY' @ 545 : 1
-2025/03/14-19:18:57.757 255c Compacting 1@0 + 1@1 files
-2025/03/14-19:18:57.770 255c Generated table #209@0: 12 keys, 82068 bytes
-2025/03/14-19:18:57.770 255c Compacted 1@0 + 1@1 files => 82068 bytes
-2025/03/14-19:18:57.777 255c compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/03/14-19:18:57.779 255c Delete type=2 #205
-2025/03/14-19:18:57.784 255c Delete type=2 #208
-2025/03/14-19:18:57.787 255c Manual compaction at level-0 from '!items!vDARgjlL1BSUtORY' @ 545 : 1 .. '!items!vDARgjlL1BSUtORY' @ 0 : 0; will stop at (end)
-2025/03/14-19:18:57.787 255c Manual compaction at level-1 from '!items!0J2NfM8UovWLi7SE' @ 72057594037927935 : 1 .. '!items!vDARgjlL1BSUtORY' @ 0 : 0; will stop at '!items!vDARgjlL1BSUtORY' @ 546 : 1
-2025/03/14-19:18:57.787 255c Compacting 1@1 + 1@2 files
-2025/03/14-19:18:57.795 255c Generated table #210@1: 12 keys, 82068 bytes
-2025/03/14-19:18:57.795 255c Compacted 1@1 + 1@2 files => 82068 bytes
-2025/03/14-19:18:57.800 255c compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/14-19:18:57.803 255c Delete type=2 #175
-2025/03/14-19:18:57.807 255c Delete type=2 #209
-2025/03/14-19:18:57.811 255c Manual compaction at level-1 from '!items!vDARgjlL1BSUtORY' @ 546 : 1 .. '!items!vDARgjlL1BSUtORY' @ 0 : 0; will stop at (end)
+2025/03/17-14:27:48.923 2fb8 Recovering log #213
+2025/03/17-14:27:48.973 2fb8 Delete type=0 #213
+2025/03/17-14:27:48.981 2fb8 Delete type=3 #211
+2025/03/17-15:50:47.965 6018 Level-0 table #218: started
+2025/03/17-15:50:47.965 6018 Level-0 table #218: 0 bytes OK
+2025/03/17-15:50:47.977 6018 Delete type=0 #216
+2025/03/17-15:50:48.000 6018 Manual compaction at level-0 from '!items!0J2NfM8UovWLi7SE' @ 72057594037927935 : 1 .. '!items!vDARgjlL1BSUtORY' @ 0 : 0; will stop at (end)
+2025/03/17-15:50:48.001 6018 Manual compaction at level-1 from '!items!0J2NfM8UovWLi7SE' @ 72057594037927935 : 1 .. '!items!vDARgjlL1BSUtORY' @ 0 : 0; will stop at (end)
